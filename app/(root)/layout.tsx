@@ -1,6 +1,5 @@
 import Footer from "@/components/shared/Footer"
-import FormLayout from "@/components/shared/FormLayout"
-import NavBar from "@/components/shared/NavBar"
+import NavBar from "@/components/shared/Navbar/NavBar"
 
 export default function RootLayout({
   children,
@@ -8,10 +7,9 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <div className="flex h-screen flex-col">
-            {/* <FormLayout /> */}
-      <NavBar />
-      <div className="flex-1 bg-contain bg-purple-50">{children}</div>
+    <div className="flex flex-col">
+      {/* <NavBar /> */}
+      <div className="flex-1 bg-purple-50">{children}</div>
       <Footer />
     </div>
   )

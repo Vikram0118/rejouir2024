@@ -49,3 +49,70 @@ export const eventsOptions = [
     value: "SoloDanceEvent"
   }
 ]
+
+// hero section images
+export const heroImage = [
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+ 
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+ 
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+ 
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+  {
+    title: "picture",
+    thumbnail: "/assets/hero/herotest.png",
+  },
+];

@@ -2,7 +2,6 @@
 
 import React, { createContext, useContext, useState } from "react";
 import { IPaymentDetails, IStudentDetails, InitialValuesType } from "@/interfaces";
-// import { string } from "yup";
 
 const initialValues = {
   studentDetails: {

@@ -1,9 +1,8 @@
-import React from 'react'
+"use client";
+import React from "react";
+import { heroImage } from "@/constants";
+import { HeroParallax } from "../ui/hero-parallex";
 
-const Hero = () => {
-  return (
-    <div>Hero</div>
-  )
+export default function Hero() {
+  return <HeroParallax products={heroImage} />;
 }
-
-export default Hero

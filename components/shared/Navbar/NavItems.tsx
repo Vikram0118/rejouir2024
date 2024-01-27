@@ -2,7 +2,7 @@ import { socialLinks } from '@/constants'
 import Link from 'next/link'
 import Image from 'next/image';
 import React from 'react'
-import { Separator } from '../ui/separator';
+import { Separator } from '../../ui/separator';
 
 export default function NavItems() {
 
