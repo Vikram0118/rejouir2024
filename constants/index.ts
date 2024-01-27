@@ -1,4 +1,4 @@
-export const socialLinks = [
+  export const socialLinks = [
     {
       label: 'Instagram',
       link: 'https://www.linkedin.com/in/vikram-palani/',
@@ -26,29 +26,26 @@ export const genderOptions = [
   },
 ];
 
+// the values are the firestore collection names
 export const eventsOptions = [
   {
     label: "BGMI",
-    value: "bgmi",
+    value: "BgmiEvent",
   },
   {
     label: "Free Fire",
-    value: "ff",
+    value: "FreeFireEvent",
   },
   {
     label: "Web Designing",
-    value: "wd",
-  },
-  {
-    label: "Web Designing",
-    value: "wd",
+    value: "WebDesigningEvent",
   },
   {
     label: "Paper Presentation",
-    value: "pp",
+    value: "PaperPresentationEvent",
   },
   {
     label: "Solo Dance",
-    value: "sd"
+    value: "SoloDanceEvent"
   }
 ]
