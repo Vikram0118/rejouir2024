@@ -50,6 +50,7 @@ export const eventsOptions = [
   }
 ]
 
+
 // hero section images
 export const heroImage = [
   {
