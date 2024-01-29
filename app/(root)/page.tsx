@@ -11,7 +11,6 @@ export default function Home() {
       <Counter />
       <About />
       <Events />
-      <FormLayout />
     </main>
   );
 }
