@@ -1,4 +1,5 @@
-  export const socialLinks = [
+
+export const socialLinks = [
     {
       label: 'Instagram',
       link: 'https://www.linkedin.com/in/vikram-palani/',
@@ -25,6 +26,26 @@ export const genderOptions = [
     value: "nb",
   },
 ];
+
+// event category
+export const categoryOptions =[
+  {
+    label:"Technology",
+    value:"tech"
+  },
+  {
+    label:"Games",
+    value:"game"
+  },
+  {
+    label:"Culturals",
+    value:"cultural"
+  },
+  {
+    label:"Fun",
+    value:"fun"
+  },
+]
 
 // the values are the firestore collection names
 export const eventsOptions = [
@@ -117,3 +138,45 @@ export const heroImage = [
     thumbnail: "/assets/hero/herotest.png",
   },
 ];
+
+// events
+
+export const items = [
+  {
+    title: "The Dawn of Innovation",
+    description: "Explore the birth of groundbreaking ideas and inventions.",
+    image : '/assets/hero/herotest.png'
+  },
+  {
+    title: "The Digital Revolution",
+    description: "Dive into the transformative power of technology.",
+    image : '/assets/hero/herotest.png'
+  },
+  {
+    title: "The Art of Design",
+    description: "Discover the beauty of thoughtful and functional design.",
+    image : '/assets/hero/herotest.png'
+  },
+  {
+    title: "The Power of Communication",
+    description:
+      "Understand the impact of effective communication in our lives.",
+    image : '/assets/hero/herotest.png'
+  },
+  {
+    title: "The Pursuit of Knowledge",
+    description: "Join the quest for understanding and enlightenment.",
+    image : '/assets/hero/herotest.png'
+  },
+  {
+    title: "The Joy of Creation",
+    description: "Experience the thrill of bringing ideas to life.",
+    image : '/assets/hero/herotest.png'
+  },
+  {
+    title: "The Spirit of Adventure",
+    description: "Embark on exciting journeys and thrilling discoveries.",
+    image : '/assets/hero/herotest.png'
+  },
+];
+

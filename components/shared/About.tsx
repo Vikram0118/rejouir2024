@@ -3,7 +3,7 @@ import React from 'react'
 
 export const About = () => {
   return (
-  <section className="min-h-screen bg-white">
+  <section className="min-h-screen">
     <div className="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:pt-16 lg:px-6">
         <div className="font-light text-black sm:text-lg">
             <h2 className="mb-4 text-3xl tracking-tight font-extrabold">Puducherry Technological Univeristy</h2>
