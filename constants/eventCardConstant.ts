@@ -23,13 +23,6 @@ export const eventCard = [
         "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
       tags: ["games", "tech", "wwcd"]
     },
-
-    {
-      title: "Amazon",
-      description:
-        "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-      tags: ["games", "tech", "wwcd"]
-    },
     {
       title: "Microsoft",
       description:
@@ -40,31 +33,6 @@ export const eventCard = [
       title: "Meta",
       description:
         "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Amazon",
-      description:
-        "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-      tags: ["games", "tech", "wwcd"]
-    },
-
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Meta",
-      description:
-        "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Amazon",
-      description:
-        "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
       tags: ["games", "tech", "wwcd"]
     },
     {
@@ -104,148 +72,5 @@ export const eventCard = [
       description:
         "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
       tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Amazon",
-      description:
-        "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-
-    {
-      title: "Meta",
-      description:
-        "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Amazon",
-      description:
-        "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-
-    {
-      title: "Meta",
-      description:
-        "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Amazon",
-      description:
-        "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-
-    {
-      title: "Meta",
-      description:
-        "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Amazon",
-      description:
-        "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-
-    {
-      title: "Meta",
-      description:
-        "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Amazon",
-      description:
-        "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-
-    {
-      title: "Meta",
-      description:
-        "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Amazon",
-      description:
-        "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
-    {
-      title: "Microsoft",
-      description:
-        "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-      tags: ["games", "tech", "wwcd"]
-    },
+    }
 ];

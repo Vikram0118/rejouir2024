@@ -1,5 +1,6 @@
 import { FormControlProps, InputProps } from "@chakra-ui/react";
 import { FormikErrors, FormikTouched } from "formik";
+import { JSXElementConstructor, ReactElement } from "react"
 
 export interface IFormInputProps {
   name: string;
@@ -41,7 +42,6 @@ export interface IPaymentDetails {
   transactionId: string,
 }
 
-
 export interface InitialValuesType  {
   studentDetails: {
     name: string,
@@ -56,3 +56,17 @@ export interface InitialValuesType  {
     transactionId: string,
   }
 };
+
+export interface Meta {
+  id: string,
+  title: string,
+  description: string,
+  date: string,
+  tags: string[],
+  read: string
+}
+
+export interface BlogPost {
+  meta: Meta,
+  content: ReactElement<any, string | JSXElementConstructor<any>>,
+}
