@@ -1,2 +1,4 @@
 https://clerk.com/docs/custom-flows/use-sign-up
 usePathName()
+
+mongoose connection string: mongodb+srv://vikrampalani:<password>@cluster0.dwotr2p.mongodb.net/
